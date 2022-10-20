@@ -1,3 +1,4 @@
+const WeatherView = require("./weatherView");
 
 class Weather {
 
@@ -16,14 +17,9 @@ class Weather {
     });
   }
 
-  Weatherview() {
-    return this.api.fetchWeatherData(this.city, (weatherData) => {
-      console.log(`City: ${this.city}`)
-      console.log(`Weather: ${weatherData.weather[0].main}`)
-      console.log(`Tempreture: ${weatherData.main.temp}`)
-      console.log(`Feels like: ${weatherData.main.feels_like}`)
-      console.log(`Humidity: ${weatherData.main.humidity}`)
-    });
+  weatherView() {
+    const weatherview = new WeatherView(this.api, this.city)
+    return weatherview.view()
   }
 }
 
