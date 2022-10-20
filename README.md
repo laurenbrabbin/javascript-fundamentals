@@ -31,9 +31,9 @@ In phase 2, I work through challenges designed to help me learn how to use JavaS
 12. Classes
 
 ```
-(files containing phase 1 projects:
+files containing phase 1 projects:
   1. phase1-challenges
-  2. fizzbuzz )
+  2. fizzbuzz 
 ```
 
 ### Phase Two Chapters
@@ -46,13 +46,13 @@ In phase 2, I work through challenges designed to help me learn how to use JavaS
 7. A Web server
 
 ```
-(files containing phase 2 projects:
+files containing phase 2 projects:
   1. testing-with-jest-practice
   2. search-function
   3. shopping-basket
   4. thermostat
   5. Apis
   6. weather-program
-  7. simple-server )
+  7. simple-server 
 ```
 <!-- END GENERATED SECTION DO NOT EDIT -->
