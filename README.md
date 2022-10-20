@@ -1,10 +1,12 @@
 # JavaScript Fundamentals
 
+In this repository, each project file will contain it's own README which will describe the exercises I had to complete for that individual project. 
+
 In the first module (Phase One), I learnt the basics of Javascript through a series of exercises, either building on previous knowledge or discovering new concepts. Towards the end of the module I built more complex programs such as the shopping-basket program, which allowed me to bring in all the knowledge I had learnt throughout the module. 
 
 In phase 2, I work through challenges designed to help me learn how to use JavaScript in a real application, including unit tests, multiple classes, and external dependencies on packages and remote APIs.
 
-## Learning objectives
+## Learning objectives this week:
 
 * Test-drive a simple Javascript program using Node.
 * Explain how asynchronous programming is different from synchronous, blocking
