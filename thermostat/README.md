@@ -45,3 +45,30 @@ thermostat.getTemperature(); // should now return 26
 thermostat.reset();
 thermostat.getTemperature(); // should be back to 20
 ```
+
+## Phase 2
+
+## Exercise: thermostat over the web
+
+To complete this exercise, you'll have to:
+
+1. Implement a route GET /temperature to print the thermostat temperature.
+2. Implement a route POST /up to increase the temperature.
+3. Implement a route POST /down to decrease the temperature.
+4. Implement a route DELETE /temperature to reset the thermostat.
+
+If your program is correct, you should be able to execute the following curl commands in the terminal, and get the same output:
+
+```zsh
+$ curl -XGET http://localhost:3000/temperature 
+{"temperature":20}
+
+$ curl -XPOST http://localhost:3000/up 
+$ curl -XPOST http://localhost:3000/up 
+$ curl -XGET http://localhost:3000/temperature 
+{"temperature":22}
+
+$ curl -XDELETE http://localhost:3000/temperature
+$ curl -XGET http://localhost:3000/temperature 
+{"temperature":20}
+```
