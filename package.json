@@ -3,6 +3,7 @@
     "prettier": "2.7.1"
   },
   "dependencies": {
+    "express": "^4.18.2",
     "got": "^11.8.5"
   }
 }
