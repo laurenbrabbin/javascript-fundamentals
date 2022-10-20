@@ -30,6 +30,12 @@ In phase 2, I work through challenges designed to help me learn how to use JavaS
 11. Array operations
 12. Classes
 
+```
+(files containing phase 1 projects:
+  1. phase1-challenges
+  2. fizzbuzz )
+```
+
 ### Phase Two Chapters
 1. Testing with Jest
 2. A Search function
@@ -39,4 +45,14 @@ In phase 2, I work through challenges designed to help me learn how to use JavaS
 6. A Weather client
 7. A Web server
 
+```
+(files containing phase 2 projects:
+  1. testing-with-jest-practice
+  2. search-function
+  3. shopping-basket
+  4. thermostat
+  5. Apis
+  6. weather-program
+  7. simple-server )
+```
 <!-- END GENERATED SECTION DO NOT EDIT -->
