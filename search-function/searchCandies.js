@@ -23,7 +23,7 @@ const searchCandies = (searchTerm, maxPrice) => {
   };
 
   const withName = (item) => {
-    if (item.name.startsWith(searchTerm)) {
+    if (item.name.toLowerCase().startsWith(searchTerm.toLowerCase())) {
       return true;
     }
   }
@@ -38,4 +38,4 @@ const searchCandies = (searchTerm, maxPrice) => {
 };
 
 module.exports = searchCandies
-searchCandies('S', 4);
+searchCandies('s', 10);
