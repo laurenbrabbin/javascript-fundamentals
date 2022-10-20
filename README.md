@@ -32,6 +32,7 @@ In phase 2, I work through challenges designed to help me learn how to use JavaS
 
 ```
 files containing phase 1 projects:
+
   1. phase1-challenges
   2. fizzbuzz 
 ```
@@ -47,6 +48,7 @@ files containing phase 1 projects:
 
 ```
 files containing phase 2 projects:
+
   1. testing-with-jest-practice
   2. search-function
   3. shopping-basket
