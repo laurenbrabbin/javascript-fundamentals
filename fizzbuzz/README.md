@@ -1,3 +1,5 @@
+## FizzBuzz Challenge
+
 ## Exercise 1
 
 Write a fizzBuzz function in JavaScript. As a reminder, this function should take a number as argument, and then either:
