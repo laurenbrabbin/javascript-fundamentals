@@ -13,10 +13,12 @@ app.get('/counter', (req, res) => {
 
 app.post('/counter', (req, res) => {
   counter += 1
+  res.send('')
 });
 
 app.delete('/counter', (req, res) => {
   counter = 0
+  res.send('')
 });
 
 console.log(`Server listening on localhost:${port}`);
