@@ -51,7 +51,7 @@ files containing phase 2 projects:
   2. search-function
   3. shopping-basket
   4. thermostat
-  5. Apis
+  5. apis
   6. weather-program
   7. simple-server 
 ```
