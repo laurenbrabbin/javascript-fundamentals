@@ -29,6 +29,7 @@ Modify the previous function sayHello so it accepts one argument, and calling sa
 
 
 
+
 ## Chapter 5 - Conditionals
 
 ## Exercise 1
@@ -107,6 +108,7 @@ Here's an acceptance criteria of how the function should behave:
 ```
 
 
+
 ## Chapter 6 - Loops
 
 ## Exercise 1
@@ -136,6 +138,7 @@ Buzz
 ```
 
 
+
 ## Chapter 7 - Functions as values
 
 ## Exercise 1
@@ -157,6 +160,8 @@ Call transform by giving it the string 'WHY ARE YOU SHOUTING?' and the function 
   send an email to hello@makers.tech.test and get the expected output.
 
   send a text to +10000000000 and get the expected output.
+
+
 
 
 ## Chapter 8 - Callbacks
@@ -208,6 +213,8 @@ $ node counter.js
 (...)
 ```
 
+
+
 ## Chapter 9 - Arrays
 
 ## Exercise 1
@@ -245,6 +252,8 @@ Once your function is written, you should be able to type the following code and
 [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
 ```
 
+
+
 ## Chapter 10 - Objects
 
 ## Exercise 1
@@ -274,6 +283,9 @@ Declare an object cohort that has the following properties:
 Declare a function that accepts that object as argument and print a message with the following structure:
 
 <COHORT_ID> - <COHORT_NAME> - <NUMBER_OF_STUDENTS> students in this cohort
+
+
+
 
 ## Chapter 11 - Array operations
 
@@ -384,6 +396,8 @@ Once your function is written, you should be able to type the following code and
   'Hi Karla! 60% off our best candies for you today!'
 ]
 ```
+
+
 
 ## Chapter 12 - Classes
 
