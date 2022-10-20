@@ -3,6 +3,7 @@
 ## Objectives
 Test-drive a JavaScript class.
 
+## Exercise
 You'll build, test-driving your code, a simple program to manage a thermostat. Here is the specification for the initial MVP of the program:
 
 1. The Thermostat starts with an initial temperature of 20 degrees
